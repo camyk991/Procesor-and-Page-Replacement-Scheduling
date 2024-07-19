@@ -1,0 +1,14 @@
+Żądania stron: [[7], [0], [1], [2], [0], [3], [0], [4], [2], [3], [0], [3], [2]]
+Rozmiar ramki: 4
+
+Wyniki FIFO
+Błędy stron: 7
+Hit Ratio: 46.15
+Miss Ratio: 53.85
+
+
+Wyniki LRU
+Błędy stron: 6
+Hit Ratio: 53.85
+Miss Ratio: 46.15
+

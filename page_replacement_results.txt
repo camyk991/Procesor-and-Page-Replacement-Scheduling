@@ -1,0 +1,15 @@
+Page Requests: [[7], [0], [1], [2], [0], [3], [0], [4], [2], [3], [0], [3], [2]]
+Frame Size: 3
+
+FIFO Results
+Page Faults: 10
+Hit Ratio: 23.08
+Miss Ratio: 76.92
+
+Frames History:
+
+LRU Results
+Page Faults: 9
+Hit Ratio: 30.77
+Miss Ratio: 69.23
+

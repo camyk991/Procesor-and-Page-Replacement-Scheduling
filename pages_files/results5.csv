@@ -1,0 +1,14 @@
+Żądania stron: [0, 7, 6, 1, 7, 3, 0, 3, 1, 2, 0, 4, 2, 1, 7, 2, 3, 2, 4, 7, 5, 2, 2, 5, 0, 6]
+Rozmiar ramki: 6
+
+Wyniki FIFO
+Błędy stron: 10
+Hit Ratio: 61.54
+Miss Ratio: 38.46
+
+
+Wyniki LRU
+Błędy stron: 10
+Hit Ratio: 61.54
+Miss Ratio: 38.46
+

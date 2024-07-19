@@ -1,0 +1,21 @@
+FCFS Results
+PID,Start time,Waiting time,Finish time,Turnaround time
+3,23,0,111,88
+2,111,64,148,101
+1,148,94,151,97
+0,151,79,212,140
+
+FCFS Averages
+Average Waiting Time,Average Turnaround Time,Average Finish Time
+59.25,106.5,155.5
+
+SJF Results
+PID,Start time,Waiting time,Finish time,Turnaround time
+3,23,0,111,88
+1,111,57,114,60
+2,114,67,151,104
+0,151,79,212,140
+
+SJF Averages
+Average Waiting Time,Average Turnaround Time,Average Finish Time
+50.75,98.0,147.0
